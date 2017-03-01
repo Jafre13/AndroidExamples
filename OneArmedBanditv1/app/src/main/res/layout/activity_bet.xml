@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.android_16.erso.onearmedbanditv1.BetActivity">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/betRadioGroup">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1 €"
+            android:id="@+id/radioButton1"
+            android:background="@drawable/euromoent1"
+            android:button="@android:color/transparent"
+            android:checked="true"
+            android:onClick="onBetRadioClick"
+            android:textSize="36dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2 €"
+            android:id="@+id/radioButton2"
+            android:background="@drawable/euromoent2"
+            android:button="@android:color/transparent"
+            android:onClick="onBetRadioClick"
+            android:textSize="36dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp" />
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5 €"
+            android:id="@+id/radioButton3"
+            android:background="@drawable/euro5small"
+            android:button="@android:color/transparent"
+            android:onClick="onBetRadioClick"
+            android:textSize="36dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10 €"
+            android:id="@+id/radioButton4"
+            android:background="@drawable/euro10small"
+            android:button="@android:color/transparent"
+            android:onClick="onBetRadioClick"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:textSize="36dp" />
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20 €"
+            android:id="@+id/radioButton5"
+            android:background="@drawable/euro20small"
+            android:button="@android:color/transparent"
+            android:onClick="onBetRadioClick"
+            android:textSize="36dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp" />
+
+    </RadioGroup>
+</LinearLayout>

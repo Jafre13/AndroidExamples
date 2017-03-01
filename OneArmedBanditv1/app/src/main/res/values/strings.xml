@@ -1,0 +1,27 @@
+<resources>
+    <string name="hello">Hello World, OneArmedBanditActivity!</string>
+    <string name="app_name">OneArmedBandit</string>
+    <string name="desc">picture</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="twoEquals">%1$d and %2$d are equal: %3$d €</string>
+    <string name="threeEqual">JACKPOT: %1$d €</string>
+    <string name="nonEqual">You are a LOSER!</string>
+
+    <string-array name="betstringarray">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="betarray">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+
+
+</resources>
