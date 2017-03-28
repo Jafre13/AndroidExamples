@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadText(){
         InputStream in = this.getApplicationContext().getResources().openRawResource(R.raw.lorem);
-
+        
         InputStreamReader reader = new InputStreamReader(in);
         BufferedReader br = new BufferedReader(reader);
         String line;
