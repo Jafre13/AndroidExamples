@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a9c62b9-78e2-4018-aea8-1bf98bf3bd1e" name="Default" comment="Allows the user to choose the number of datapoints">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Android/MobileSystemsLabs/GeoFyn/GeoFynOptaeling/.idea/encodings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/MobileSystemsLabs/GeoFyn/GeoFynOptaeling/.idea/gradle.xml" afterPath="$PROJECT_DIR$/Android/MobileSystemsLabs/GeoFyn/GeoFynOptaeling/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/MobileSystemsLabs/GeoFyn/GeoFynOptaeling/.idea/misc.xml" afterPath="$PROJECT_DIR$/Android/MobileSystemsLabs/GeoFyn/GeoFynOptaeling/.idea/misc.xml" />
+    </list>
+    <list id="670e5b5a-3291-49f6-9678-59947c75ea68" name="noCommit" comment="" />
+    <ignored path="SE_7th_Semester.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SE_7th_Semester" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Android/MobileSystemsLabs/Lab_2/app/src/main/java/deothan/dk/location/MainActivity.java" />
+        <option value="$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/move.csv" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.csv" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+        <option value="$PROJECT_DIR$/ArbejdsOpgaver.txt" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/pokemon-moves.csv" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+        <option value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/knn.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SE_7th_Semester" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MapsExample" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\MRR\AppData\Roaming\npm\node_modules\gulp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="1237" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="1266" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="1268" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1942" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="1263" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="1262" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="1263" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1938" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\SE_7th_Semester\Python\DataScienceLabs\PokemonSimulator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="Simulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SE_7th_Semester" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SE_7th_Semester" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="false" name="SDK" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9c62b9-78e2-4018-aea8-1bf98bf3bd1e" name="Default" comment="" />
+      <changelist id="670e5b5a-3291-49f6-9678-59947c75ea68" name="noCommit" comment="" />
+      <created>1476078523097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476078523097</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Finished pokemon simulator">
+      <created>1477473236582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1477473236582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated work">
+      <created>1477473407963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477473407963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added simulation data">
+      <created>1477473941714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477473941714</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upgraded simulation">
+      <created>1480444911714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480444911714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Allows the user to choose the number of datapoints">
+      <created>1480445291714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1480445291714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21095334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13548388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17683882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished pokemon simulator" />
+    <MESSAGE value="updated work" />
+    <MESSAGE value="added simulation data" />
+    <MESSAGE value="Upgraded simulation" />
+    <MESSAGE value="Allows the user to choose the number of datapoints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allows the user to choose the number of datapoints" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/simulation-result.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/pokemon-moves.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_2/DataCleaning.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_2/DataCleaning.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_3/Lab3.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_4/Regression" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_3/Iris.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_2/DataCleaning.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/SocialDataMiningAssignments/Scraper.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_3/Lab3.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_4/Regression" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_3/Iris.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/MobileSystemsLabs/Lab_4/MedianAndMeanFilter.py" />
+    <entry file="file://$PROJECT_DIR$/ArbejdsOpgaver.txt" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Move.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/pokemon-moves.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/Lab_2/DataCleaning.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/weaknesses.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Pokemon.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/simulation-result.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/ann-test.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/ann.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/Simulator.py" />
+    <entry file="file://$PROJECT_DIR$/Python/DataScienceLabs/PokemonSimulator/knn.py" />
+  </component>
+</project>
