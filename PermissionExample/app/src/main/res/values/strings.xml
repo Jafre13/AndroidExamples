@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PermissionExample</string>
+    <string name="testWritterBtnText">Test</string>
 </resources>
